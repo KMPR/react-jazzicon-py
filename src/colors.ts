@@ -1,12 +1,17 @@
 export default Object.freeze([
-  "#01888c", // teal
-  "#fc7500", // bright orange
-  "#034f5d", // dark teal
-  "#f73f01", // orangered
-  "#fc1960", // magenta
-  "#c7144c", // raspberry
-  "#f3c100", // goldenrod
-  "#1598f2", // lightning blue
-  "#2465e1", // sail blue
-  "#f19e02", // gold
+    "#f7567c",
+    "#2b50aa",
+    "#e0fbfc",
+    "#00a6fb",
+    "#f4e04d",
+    "#037171",
+    "#788bff",
+    "#03312e",
+    "#29339b",
+    "#30f2f2",
+    "#2bd1fc",
+    "#f3ea5f",
+    "#ff48c4",
+    "#c04df9",
+    "#ff3f3f",
 ]);
